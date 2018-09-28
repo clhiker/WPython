@@ -1,0 +1,11 @@
+index = "asdfdsaffdsgefbxcvxv"
+print("FSDA","zhizhang\n",end="”")
+print("adsf\tafs")
+print("asfdf".center(10))
+print(len(index))
+print("{0:<20s}".format(index))
+print("{0:^30s}".format(index))
+print("{0:>39s}".format(index))
+print("{0:10,.3f}".format(431241.3214))
+print("{0:10,.3%}".format(431241.3214))
+print("{0:,.3f}".format(431241.3214))

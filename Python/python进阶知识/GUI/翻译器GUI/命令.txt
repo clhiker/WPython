@@ -1,0 +1,3 @@
+cd MyLearnSoftware/Python/interpreter/3.6.5/Scripts
+
+pyinstaller -F D://OneDrive/test/1.py -i D://OneDrive/test/29.ico --noconsole
